@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I completed Boolean Careers' Full-Stack web development course successfully and I'm about to step into the professional world.<br />
+🔭 I have successfully completed Boolean Careers' Full-Stack Web Development course and have just entered the professional world.<br />
 🤝 I thrive in team environments and I'm eager to apply the skills I've acquired. <br />
 🚀 I find it rewarding to craft dynamic and user-friendly applications. <br />
 📌 I'm always open to collaborative projects and keen on contributing innovative
@@ -39,4 +39,3 @@ ideas. <br />
 danielplebani/danielplebani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
