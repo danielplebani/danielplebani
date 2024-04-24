@@ -23,9 +23,6 @@
 </br>
 [![](https://visitcount.itsvg.in/api?id=danielplebani&icon=5&color=11)](https://visitcount.itsvg.in)
 
-## 🌐 Linkedin:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-plebani-4909202a1)
 
 <!---
 danielplebani/danielplebani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
