@@ -1,11 +1,3 @@
-# 💫 About Me:
-
-🔭 I have successfully completed Boolean Careers' Full-Stack Web Development course and have just entered the professional world.<br />
-🤝 I thrive in team environments and I'm eager to apply the skills I've acquired. <br />
-🚀 I find it rewarding to craft dynamic and user-friendly applications. <br />
-📌 I'm always open to collaborative projects and keen on contributing innovative
-ideas. <br />
-
 # 💻 Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
